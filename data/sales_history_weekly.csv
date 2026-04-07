@@ -1,0 +1,937 @@
+week_start_date,station_location,ev_type,quantity_sold,total_revenue
+2023-11-27,Playa Vista,FORD Loaf,621,6986.25
+2023-11-27,Playa Vista,Tesla,1241,5584.5
+2023-11-27,Playa Vista,Toyota,413,2065.0
+2023-11-27,Silver Lake,FORD Loaf,151,1698.75
+2023-11-27,Silver Lake,Tesla,508,2286.0
+2023-11-27,Silver Lake,Toyota,174,870.0
+2023-11-27,Downtown LA,FORD Loaf,324,3645.0
+2023-11-27,Downtown LA,Tesla,593,2668.5
+2023-11-27,Downtown LA,Toyota,201,1005.0
+2023-12-04,Playa Vista,FORD Loaf,565,6356.25
+2023-12-04,Playa Vista,Tesla,1117,5026.5
+2023-12-04,Playa Vista,Toyota,515,2575.0
+2023-12-04,Silver Lake,FORD Loaf,241,2711.25
+2023-12-04,Silver Lake,Tesla,457,2056.5
+2023-12-04,Silver Lake,Toyota,147,735.0
+2023-12-04,Downtown LA,FORD Loaf,308,3465.0
+2023-12-04,Downtown LA,Tesla,613,2758.5
+2023-12-04,Downtown LA,Toyota,168,840.0
+2023-12-11,Playa Vista,FORD Loaf,559,6288.75
+2023-12-11,Playa Vista,Tesla,1206,5427.0
+2023-12-11,Playa Vista,Toyota,405,2025.0
+2023-12-11,Silver Lake,FORD Loaf,214,2407.5
+2023-12-11,Silver Lake,Tesla,464,2088.0
+2023-12-11,Silver Lake,Toyota,175,875.0
+2023-12-11,Downtown LA,FORD Loaf,260,2925.0
+2023-12-11,Downtown LA,Tesla,607,2731.5
+2023-12-11,Downtown LA,Toyota,221,1105.0
+2023-12-18,Playa Vista,FORD Loaf,504,5670.0
+2023-12-18,Playa Vista,Tesla,1112,5004.0
+2023-12-18,Playa Vista,Toyota,446,2230.0
+2023-12-18,Silver Lake,FORD Loaf,217,2441.25
+2023-12-18,Silver Lake,Tesla,492,2214.0
+2023-12-18,Silver Lake,Toyota,138,690.0
+2023-12-18,Downtown LA,FORD Loaf,240,2700.0
+2023-12-18,Downtown LA,Tesla,509,2290.5
+2023-12-18,Downtown LA,Toyota,185,925.0
+2023-12-25,Playa Vista,FORD Loaf,515,5793.75
+2023-12-25,Playa Vista,Tesla,964,4338.0
+2023-12-25,Playa Vista,Toyota,474,2370.0
+2023-12-25,Silver Lake,FORD Loaf,280,3150.0
+2023-12-25,Silver Lake,Tesla,389,1750.5
+2023-12-25,Silver Lake,Toyota,180,900.0
+2023-12-25,Downtown LA,FORD Loaf,252,2835.0
+2023-12-25,Downtown LA,Tesla,512,2304.0
+2023-12-25,Downtown LA,Toyota,199,995.0
+2024-01-01,Playa Vista,FORD Loaf,399,4488.75
+2024-01-01,Playa Vista,Tesla,899,4045.5
+2024-01-01,Playa Vista,Toyota,358,1790.0
+2024-01-01,Silver Lake,FORD Loaf,167,1878.75
+2024-01-01,Silver Lake,Tesla,297,1336.5
+2024-01-01,Silver Lake,Toyota,141,705.0
+2024-01-01,Downtown LA,FORD Loaf,219,2463.75
+2024-01-01,Downtown LA,Tesla,430,1935.0
+2024-01-01,Downtown LA,Toyota,139,695.0
+2024-01-08,Playa Vista,FORD Loaf,439,4938.75
+2024-01-08,Playa Vista,Tesla,949,4270.5
+2024-01-08,Playa Vista,Toyota,332,1660.0
+2024-01-08,Silver Lake,FORD Loaf,194,2182.5
+2024-01-08,Silver Lake,Tesla,341,1534.5
+2024-01-08,Silver Lake,Toyota,152,760.0
+2024-01-08,Downtown LA,FORD Loaf,194,2182.5
+2024-01-08,Downtown LA,Tesla,366,1647.0
+2024-01-08,Downtown LA,Toyota,174,870.0
+2024-01-15,Playa Vista,FORD Loaf,396,4455.0
+2024-01-15,Playa Vista,Tesla,852,3834.0
+2024-01-15,Playa Vista,Toyota,348,1740.0
+2024-01-15,Silver Lake,FORD Loaf,210,2362.5
+2024-01-15,Silver Lake,Tesla,411,1849.5
+2024-01-15,Silver Lake,Toyota,131,655.0
+2024-01-15,Downtown LA,FORD Loaf,189,2126.25
+2024-01-15,Downtown LA,Tesla,405,1822.5
+2024-01-15,Downtown LA,Toyota,169,845.0
+2024-01-22,Playa Vista,FORD Loaf,421,4736.25
+2024-01-22,Playa Vista,Tesla,719,3235.5
+2024-01-22,Playa Vista,Toyota,355,1775.0
+2024-01-22,Silver Lake,FORD Loaf,182,2047.5
+2024-01-22,Silver Lake,Tesla,437,1966.5
+2024-01-22,Silver Lake,Toyota,155,775.0
+2024-01-22,Downtown LA,FORD Loaf,222,2497.5
+2024-01-22,Downtown LA,Tesla,360,1620.0
+2024-01-22,Downtown LA,Toyota,163,815.0
+2024-01-29,Playa Vista,FORD Loaf,397,4466.25
+2024-01-29,Playa Vista,Tesla,880,3960.0
+2024-01-29,Playa Vista,Toyota,275,1375.0
+2024-01-29,Silver Lake,FORD Loaf,189,2126.25
+2024-01-29,Silver Lake,Tesla,385,1732.5
+2024-01-29,Silver Lake,Toyota,213,1065.0
+2024-01-29,Downtown LA,FORD Loaf,213,2396.25
+2024-01-29,Downtown LA,Tesla,355,1597.5
+2024-01-29,Downtown LA,Toyota,171,855.0
+2024-02-05,Playa Vista,FORD Loaf,418,4702.5
+2024-02-05,Playa Vista,Tesla,738,3321.0
+2024-02-05,Playa Vista,Toyota,337,1685.0
+2024-02-05,Silver Lake,FORD Loaf,231,2598.75
+2024-02-05,Silver Lake,Tesla,397,1786.5
+2024-02-05,Silver Lake,Toyota,134,670.0
+2024-02-05,Downtown LA,FORD Loaf,211,2373.75
+2024-02-05,Downtown LA,Tesla,329,1480.5
+2024-02-05,Downtown LA,Toyota,181,905.0
+2024-02-12,Playa Vista,FORD Loaf,313,3521.25
+2024-02-12,Playa Vista,Tesla,763,3433.5
+2024-02-12,Playa Vista,Toyota,302,1510.0
+2024-02-12,Silver Lake,FORD Loaf,242,2722.5
+2024-02-12,Silver Lake,Tesla,335,1507.5
+2024-02-12,Silver Lake,Toyota,164,820.0
+2024-02-12,Downtown LA,FORD Loaf,157,1766.25
+2024-02-12,Downtown LA,Tesla,331,1489.5
+2024-02-12,Downtown LA,Toyota,132,660.0
+2024-02-19,Playa Vista,FORD Loaf,375,4218.75
+2024-02-19,Playa Vista,Tesla,859,3865.5
+2024-02-19,Playa Vista,Toyota,323,1615.0
+2024-02-19,Silver Lake,FORD Loaf,217,2441.25
+2024-02-19,Silver Lake,Tesla,364,1638.0
+2024-02-19,Silver Lake,Toyota,172,860.0
+2024-02-19,Downtown LA,FORD Loaf,210,2362.5
+2024-02-19,Downtown LA,Tesla,374,1683.0
+2024-02-19,Downtown LA,Toyota,148,740.0
+2024-02-26,Playa Vista,FORD Loaf,481,5411.25
+2024-02-26,Playa Vista,Tesla,788,3546.0
+2024-02-26,Playa Vista,Toyota,333,1665.0
+2024-02-26,Silver Lake,FORD Loaf,206,2317.5
+2024-02-26,Silver Lake,Tesla,359,1615.5
+2024-02-26,Silver Lake,Toyota,124,620.0
+2024-02-26,Downtown LA,FORD Loaf,194,2182.5
+2024-02-26,Downtown LA,Tesla,421,1894.5
+2024-02-26,Downtown LA,Toyota,177,885.0
+2024-03-04,Playa Vista,FORD Loaf,511,5748.75
+2024-03-04,Playa Vista,Tesla,773,3478.5
+2024-03-04,Playa Vista,Toyota,323,1615.0
+2024-03-04,Silver Lake,FORD Loaf,233,2621.25
+2024-03-04,Silver Lake,Tesla,398,1791.0
+2024-03-04,Silver Lake,Toyota,196,980.0
+2024-03-04,Downtown LA,FORD Loaf,240,2700.0
+2024-03-04,Downtown LA,Tesla,480,2160.0
+2024-03-04,Downtown LA,Toyota,157,785.0
+2024-03-11,Playa Vista,FORD Loaf,345,3881.25
+2024-03-11,Playa Vista,Tesla,744,3348.0
+2024-03-11,Playa Vista,Toyota,314,1570.0
+2024-03-11,Silver Lake,FORD Loaf,203,2283.75
+2024-03-11,Silver Lake,Tesla,375,1687.5
+2024-03-11,Silver Lake,Toyota,177,885.0
+2024-03-11,Downtown LA,FORD Loaf,174,1957.5
+2024-03-11,Downtown LA,Tesla,444,1998.0
+2024-03-11,Downtown LA,Toyota,145,725.0
+2024-03-18,Playa Vista,FORD Loaf,334,3757.5
+2024-03-18,Playa Vista,Tesla,776,3492.0
+2024-03-18,Playa Vista,Toyota,325,1625.0
+2024-03-18,Silver Lake,FORD Loaf,192,2160.0
+2024-03-18,Silver Lake,Tesla,426,1917.0
+2024-03-18,Silver Lake,Toyota,174,870.0
+2024-03-18,Downtown LA,FORD Loaf,194,2182.5
+2024-03-18,Downtown LA,Tesla,395,1777.5
+2024-03-18,Downtown LA,Toyota,167,835.0
+2024-03-25,Playa Vista,FORD Loaf,461,5186.25
+2024-03-25,Playa Vista,Tesla,873,3928.5
+2024-03-25,Playa Vista,Toyota,348,1740.0
+2024-03-25,Silver Lake,FORD Loaf,258,2902.5
+2024-03-25,Silver Lake,Tesla,502,2259.0
+2024-03-25,Silver Lake,Toyota,156,780.0
+2024-03-25,Downtown LA,FORD Loaf,162,1822.5
+2024-03-25,Downtown LA,Tesla,440,1980.0
+2024-03-25,Downtown LA,Toyota,179,895.0
+2024-04-01,Playa Vista,FORD Loaf,440,4950.0
+2024-04-01,Playa Vista,Tesla,816,3672.0
+2024-04-01,Playa Vista,Toyota,376,1880.0
+2024-04-01,Silver Lake,FORD Loaf,202,2272.5
+2024-04-01,Silver Lake,Tesla,468,2106.0
+2024-04-01,Silver Lake,Toyota,109,545.0
+2024-04-01,Downtown LA,FORD Loaf,216,2430.0
+2024-04-01,Downtown LA,Tesla,396,1782.0
+2024-04-01,Downtown LA,Toyota,158,790.0
+2024-04-08,Playa Vista,FORD Loaf,412,4635.0
+2024-04-08,Playa Vista,Tesla,864,3888.0
+2024-04-08,Playa Vista,Toyota,302,1510.0
+2024-04-08,Silver Lake,FORD Loaf,269,3026.25
+2024-04-08,Silver Lake,Tesla,484,2178.0
+2024-04-08,Silver Lake,Toyota,138,690.0
+2024-04-08,Downtown LA,FORD Loaf,219,2463.75
+2024-04-08,Downtown LA,Tesla,390,1755.0
+2024-04-08,Downtown LA,Toyota,151,755.0
+2024-04-15,Playa Vista,FORD Loaf,402,4522.5
+2024-04-15,Playa Vista,Tesla,786,3537.0
+2024-04-15,Playa Vista,Toyota,320,1600.0
+2024-04-15,Silver Lake,FORD Loaf,253,2846.25
+2024-04-15,Silver Lake,Tesla,494,2223.0
+2024-04-15,Silver Lake,Toyota,170,850.0
+2024-04-15,Downtown LA,FORD Loaf,222,2497.5
+2024-04-15,Downtown LA,Tesla,409,1840.5
+2024-04-15,Downtown LA,Toyota,140,700.0
+2024-04-22,Playa Vista,FORD Loaf,305,3431.25
+2024-04-22,Playa Vista,Tesla,851,3829.5
+2024-04-22,Playa Vista,Toyota,349,1745.0
+2024-04-22,Silver Lake,FORD Loaf,193,2171.25
+2024-04-22,Silver Lake,Tesla,524,2358.0
+2024-04-22,Silver Lake,Toyota,187,935.0
+2024-04-22,Downtown LA,FORD Loaf,212,2385.0
+2024-04-22,Downtown LA,Tesla,401,1804.5
+2024-04-22,Downtown LA,Toyota,150,750.0
+2024-04-29,Playa Vista,FORD Loaf,408,4590.0
+2024-04-29,Playa Vista,Tesla,849,3820.5
+2024-04-29,Playa Vista,Toyota,301,1505.0
+2024-04-29,Silver Lake,FORD Loaf,235,2643.75
+2024-04-29,Silver Lake,Tesla,432,1944.0
+2024-04-29,Silver Lake,Toyota,178,890.0
+2024-04-29,Downtown LA,FORD Loaf,213,2396.25
+2024-04-29,Downtown LA,Tesla,359,1615.5
+2024-04-29,Downtown LA,Toyota,138,690.0
+2024-05-06,Playa Vista,FORD Loaf,472,5310.0
+2024-05-06,Playa Vista,Tesla,848,3816.0
+2024-05-06,Playa Vista,Toyota,314,1570.0
+2024-05-06,Silver Lake,FORD Loaf,267,3003.75
+2024-05-06,Silver Lake,Tesla,551,2479.5
+2024-05-06,Silver Lake,Toyota,226,1130.0
+2024-05-06,Downtown LA,FORD Loaf,217,2441.25
+2024-05-06,Downtown LA,Tesla,409,1840.5
+2024-05-06,Downtown LA,Toyota,133,665.0
+2024-05-13,Playa Vista,FORD Loaf,337,3791.25
+2024-05-13,Playa Vista,Tesla,931,4189.5
+2024-05-13,Playa Vista,Toyota,348,1740.0
+2024-05-13,Silver Lake,FORD Loaf,227,2553.75
+2024-05-13,Silver Lake,Tesla,617,2776.5
+2024-05-13,Silver Lake,Toyota,215,1075.0
+2024-05-13,Downtown LA,FORD Loaf,173,1946.25
+2024-05-13,Downtown LA,Tesla,408,1836.0
+2024-05-13,Downtown LA,Toyota,143,715.0
+2024-05-20,Playa Vista,FORD Loaf,397,4466.25
+2024-05-20,Playa Vista,Tesla,854,3843.0
+2024-05-20,Playa Vista,Toyota,334,1670.0
+2024-05-20,Silver Lake,FORD Loaf,226,2542.5
+2024-05-20,Silver Lake,Tesla,443,1993.5
+2024-05-20,Silver Lake,Toyota,208,1040.0
+2024-05-20,Downtown LA,FORD Loaf,198,2227.5
+2024-05-20,Downtown LA,Tesla,352,1584.0
+2024-05-20,Downtown LA,Toyota,172,860.0
+2024-05-27,Playa Vista,FORD Loaf,452,5085.0
+2024-05-27,Playa Vista,Tesla,872,3924.0
+2024-05-27,Playa Vista,Toyota,309,1545.0
+2024-05-27,Silver Lake,FORD Loaf,191,2148.75
+2024-05-27,Silver Lake,Tesla,492,2214.0
+2024-05-27,Silver Lake,Toyota,157,785.0
+2024-05-27,Downtown LA,FORD Loaf,192,2160.0
+2024-05-27,Downtown LA,Tesla,416,1872.0
+2024-05-27,Downtown LA,Toyota,160,800.0
+2024-06-03,Playa Vista,FORD Loaf,436,4905.0
+2024-06-03,Playa Vista,Tesla,909,4090.5
+2024-06-03,Playa Vista,Toyota,346,1730.0
+2024-06-03,Silver Lake,FORD Loaf,293,3296.25
+2024-06-03,Silver Lake,Tesla,572,2574.0
+2024-06-03,Silver Lake,Toyota,232,1160.0
+2024-06-03,Downtown LA,FORD Loaf,202,2272.5
+2024-06-03,Downtown LA,Tesla,351,1579.5
+2024-06-03,Downtown LA,Toyota,146,730.0
+2024-06-10,Playa Vista,FORD Loaf,378,4252.5
+2024-06-10,Playa Vista,Tesla,838,3771.0
+2024-06-10,Playa Vista,Toyota,349,1745.0
+2024-06-10,Silver Lake,FORD Loaf,205,2306.25
+2024-06-10,Silver Lake,Tesla,633,2848.5
+2024-06-10,Silver Lake,Toyota,228,1140.0
+2024-06-10,Downtown LA,FORD Loaf,169,1901.25
+2024-06-10,Downtown LA,Tesla,411,1849.5
+2024-06-10,Downtown LA,Toyota,148,740.0
+2024-06-17,Playa Vista,FORD Loaf,392,4410.0
+2024-06-17,Playa Vista,Tesla,865,3892.5
+2024-06-17,Playa Vista,Toyota,287,1435.0
+2024-06-17,Silver Lake,FORD Loaf,257,2891.25
+2024-06-17,Silver Lake,Tesla,539,2425.5
+2024-06-17,Silver Lake,Toyota,205,1025.0
+2024-06-17,Downtown LA,FORD Loaf,195,2193.75
+2024-06-17,Downtown LA,Tesla,319,1435.5
+2024-06-17,Downtown LA,Toyota,139,695.0
+2024-06-24,Playa Vista,FORD Loaf,445,5006.25
+2024-06-24,Playa Vista,Tesla,757,3406.5
+2024-06-24,Playa Vista,Toyota,335,1675.0
+2024-06-24,Silver Lake,FORD Loaf,249,2801.25
+2024-06-24,Silver Lake,Tesla,639,2875.5
+2024-06-24,Silver Lake,Toyota,199,995.0
+2024-06-24,Downtown LA,FORD Loaf,198,2227.5
+2024-06-24,Downtown LA,Tesla,343,1543.5
+2024-06-24,Downtown LA,Toyota,151,755.0
+2024-07-01,Playa Vista,FORD Loaf,410,4612.5
+2024-07-01,Playa Vista,Tesla,681,3064.5
+2024-07-01,Playa Vista,Toyota,361,1805.0
+2024-07-01,Silver Lake,FORD Loaf,335,3768.75
+2024-07-01,Silver Lake,Tesla,394,1773.0
+2024-07-01,Silver Lake,Toyota,216,1080.0
+2024-07-01,Downtown LA,FORD Loaf,201,2261.25
+2024-07-01,Downtown LA,Tesla,476,2142.0
+2024-07-01,Downtown LA,Toyota,140,700.0
+2024-07-08,Playa Vista,FORD Loaf,416,4680.0
+2024-07-08,Playa Vista,Tesla,864,3888.0
+2024-07-08,Playa Vista,Toyota,397,1985.0
+2024-07-08,Silver Lake,FORD Loaf,274,3082.5
+2024-07-08,Silver Lake,Tesla,564,2538.0
+2024-07-08,Silver Lake,Toyota,277,1385.0
+2024-07-08,Downtown LA,FORD Loaf,203,2283.75
+2024-07-08,Downtown LA,Tesla,411,1849.5
+2024-07-08,Downtown LA,Toyota,163,815.0
+2024-07-15,Playa Vista,FORD Loaf,505,5681.25
+2024-07-15,Playa Vista,Tesla,752,3384.0
+2024-07-15,Playa Vista,Toyota,348,1740.0
+2024-07-15,Silver Lake,FORD Loaf,247,2778.75
+2024-07-15,Silver Lake,Tesla,475,2137.5
+2024-07-15,Silver Lake,Toyota,240,1200.0
+2024-07-15,Downtown LA,FORD Loaf,204,2295.0
+2024-07-15,Downtown LA,Tesla,374,1683.0
+2024-07-15,Downtown LA,Toyota,139,695.0
+2024-07-22,Playa Vista,FORD Loaf,412,4635.0
+2024-07-22,Playa Vista,Tesla,760,3420.0
+2024-07-22,Playa Vista,Toyota,316,1580.0
+2024-07-22,Silver Lake,FORD Loaf,265,2981.25
+2024-07-22,Silver Lake,Tesla,547,2461.5
+2024-07-22,Silver Lake,Toyota,243,1215.0
+2024-07-22,Downtown LA,FORD Loaf,201,2261.25
+2024-07-22,Downtown LA,Tesla,475,2137.5
+2024-07-22,Downtown LA,Toyota,142,710.0
+2024-07-29,Playa Vista,FORD Loaf,363,4083.75
+2024-07-29,Playa Vista,Tesla,803,3613.5
+2024-07-29,Playa Vista,Toyota,328,1640.0
+2024-07-29,Silver Lake,FORD Loaf,292,3285.0
+2024-07-29,Silver Lake,Tesla,562,2529.0
+2024-07-29,Silver Lake,Toyota,248,1240.0
+2024-07-29,Downtown LA,FORD Loaf,178,2002.5
+2024-07-29,Downtown LA,Tesla,420,1890.0
+2024-07-29,Downtown LA,Toyota,163,815.0
+2024-08-05,Playa Vista,FORD Loaf,365,4106.25
+2024-08-05,Playa Vista,Tesla,806,3627.0
+2024-08-05,Playa Vista,Toyota,263,1315.0
+2024-08-05,Silver Lake,FORD Loaf,204,2295.0
+2024-08-05,Silver Lake,Tesla,470,2115.0
+2024-08-05,Silver Lake,Toyota,171,855.0
+2024-08-05,Downtown LA,FORD Loaf,154,1732.5
+2024-08-05,Downtown LA,Tesla,344,1548.0
+2024-08-05,Downtown LA,Toyota,105,525.0
+2024-08-12,Playa Vista,FORD Loaf,354,3982.5
+2024-08-12,Playa Vista,Tesla,740,3330.0
+2024-08-12,Playa Vista,Toyota,257,1285.0
+2024-08-12,Silver Lake,FORD Loaf,256,2880.0
+2024-08-12,Silver Lake,Tesla,469,2110.5
+2024-08-12,Silver Lake,Toyota,169,845.0
+2024-08-12,Downtown LA,FORD Loaf,149,1676.25
+2024-08-12,Downtown LA,Tesla,305,1372.5
+2024-08-12,Downtown LA,Toyota,149,745.0
+2024-08-19,Playa Vista,FORD Loaf,362,4072.5
+2024-08-19,Playa Vista,Tesla,661,2974.5
+2024-08-19,Playa Vista,Toyota,270,1350.0
+2024-08-19,Silver Lake,FORD Loaf,293,3296.25
+2024-08-19,Silver Lake,Tesla,613,2758.5
+2024-08-19,Silver Lake,Toyota,195,975.0
+2024-08-19,Downtown LA,FORD Loaf,155,1743.75
+2024-08-19,Downtown LA,Tesla,322,1449.0
+2024-08-19,Downtown LA,Toyota,117,585.0
+2024-08-26,Playa Vista,FORD Loaf,318,3577.5
+2024-08-26,Playa Vista,Tesla,719,3235.5
+2024-08-26,Playa Vista,Toyota,326,1630.0
+2024-08-26,Silver Lake,FORD Loaf,272,3060.0
+2024-08-26,Silver Lake,Tesla,616,2772.0
+2024-08-26,Silver Lake,Toyota,209,1045.0
+2024-08-26,Downtown LA,FORD Loaf,178,2002.5
+2024-08-26,Downtown LA,Tesla,362,1629.0
+2024-08-26,Downtown LA,Toyota,123,615.0
+2024-09-02,Playa Vista,FORD Loaf,316,3555.0
+2024-09-02,Playa Vista,Tesla,811,3649.5
+2024-09-02,Playa Vista,Toyota,346,1730.0
+2024-09-02,Silver Lake,FORD Loaf,259,2913.75
+2024-09-02,Silver Lake,Tesla,566,2547.0
+2024-09-02,Silver Lake,Toyota,254,1270.0
+2024-09-02,Downtown LA,FORD Loaf,204,2295.0
+2024-09-02,Downtown LA,Tesla,364,1638.0
+2024-09-02,Downtown LA,Toyota,152,760.0
+2024-09-09,Playa Vista,FORD Loaf,409,4601.25
+2024-09-09,Playa Vista,Tesla,802,3609.0
+2024-09-09,Playa Vista,Toyota,331,1655.0
+2024-09-09,Silver Lake,FORD Loaf,323,3633.75
+2024-09-09,Silver Lake,Tesla,592,2664.0
+2024-09-09,Silver Lake,Toyota,257,1285.0
+2024-09-09,Downtown LA,FORD Loaf,180,2025.0
+2024-09-09,Downtown LA,Tesla,360,1620.0
+2024-09-09,Downtown LA,Toyota,173,865.0
+2024-09-16,Playa Vista,FORD Loaf,402,4522.5
+2024-09-16,Playa Vista,Tesla,880,3960.0
+2024-09-16,Playa Vista,Toyota,280,1400.0
+2024-09-16,Silver Lake,FORD Loaf,302,3397.5
+2024-09-16,Silver Lake,Tesla,493,2218.5
+2024-09-16,Silver Lake,Toyota,278,1390.0
+2024-09-16,Downtown LA,FORD Loaf,178,2002.5
+2024-09-16,Downtown LA,Tesla,352,1584.0
+2024-09-16,Downtown LA,Toyota,173,865.0
+2024-09-23,Playa Vista,FORD Loaf,484,5445.0
+2024-09-23,Playa Vista,Tesla,924,4158.0
+2024-09-23,Playa Vista,Toyota,355,1775.0
+2024-09-23,Silver Lake,FORD Loaf,272,3060.0
+2024-09-23,Silver Lake,Tesla,607,2731.5
+2024-09-23,Silver Lake,Toyota,284,1420.0
+2024-09-23,Downtown LA,FORD Loaf,231,2598.75
+2024-09-23,Downtown LA,Tesla,391,1759.5
+2024-09-23,Downtown LA,Toyota,175,875.0
+2024-09-30,Playa Vista,FORD Loaf,438,4927.5
+2024-09-30,Playa Vista,Tesla,886,3987.0
+2024-09-30,Playa Vista,Toyota,403,2015.0
+2024-09-30,Silver Lake,FORD Loaf,329,3701.25
+2024-09-30,Silver Lake,Tesla,520,2340.0
+2024-09-30,Silver Lake,Toyota,201,1005.0
+2024-09-30,Downtown LA,FORD Loaf,148,1665.0
+2024-09-30,Downtown LA,Tesla,308,1386.0
+2024-09-30,Downtown LA,Toyota,165,825.0
+2024-10-07,Playa Vista,FORD Loaf,450,5062.5
+2024-10-07,Playa Vista,Tesla,901,4054.5
+2024-10-07,Playa Vista,Toyota,294,1470.0
+2024-10-07,Silver Lake,FORD Loaf,348,3915.0
+2024-10-07,Silver Lake,Tesla,639,2875.5
+2024-10-07,Silver Lake,Toyota,253,1265.0
+2024-10-07,Downtown LA,FORD Loaf,196,2205.0
+2024-10-07,Downtown LA,Tesla,405,1822.5
+2024-10-07,Downtown LA,Toyota,145,725.0
+2024-10-14,Playa Vista,FORD Loaf,427,4803.75
+2024-10-14,Playa Vista,Tesla,810,3645.0
+2024-10-14,Playa Vista,Toyota,335,1675.0
+2024-10-14,Silver Lake,FORD Loaf,322,3622.5
+2024-10-14,Silver Lake,Tesla,618,2781.0
+2024-10-14,Silver Lake,Toyota,238,1190.0
+2024-10-14,Downtown LA,FORD Loaf,193,2171.25
+2024-10-14,Downtown LA,Tesla,387,1741.5
+2024-10-14,Downtown LA,Toyota,170,850.0
+2024-10-21,Playa Vista,FORD Loaf,428,4815.0
+2024-10-21,Playa Vista,Tesla,830,3735.0
+2024-10-21,Playa Vista,Toyota,342,1710.0
+2024-10-21,Silver Lake,FORD Loaf,293,3296.25
+2024-10-21,Silver Lake,Tesla,754,3393.0
+2024-10-21,Silver Lake,Toyota,280,1400.0
+2024-10-21,Downtown LA,FORD Loaf,187,2103.75
+2024-10-21,Downtown LA,Tesla,349,1570.5
+2024-10-21,Downtown LA,Toyota,164,820.0
+2024-10-28,Playa Vista,FORD Loaf,420,4725.0
+2024-10-28,Playa Vista,Tesla,811,3649.5
+2024-10-28,Playa Vista,Toyota,318,1590.0
+2024-10-28,Silver Lake,FORD Loaf,247,2778.75
+2024-10-28,Silver Lake,Tesla,737,3316.5
+2024-10-28,Silver Lake,Toyota,237,1185.0
+2024-10-28,Downtown LA,FORD Loaf,162,1822.5
+2024-10-28,Downtown LA,Tesla,405,1822.5
+2024-10-28,Downtown LA,Toyota,170,850.0
+2024-11-04,Playa Vista,FORD Loaf,591,6648.75
+2024-11-04,Playa Vista,Tesla,1323,5953.5
+2024-11-04,Playa Vista,Toyota,474,2370.0
+2024-11-04,Silver Lake,FORD Loaf,533,5996.25
+2024-11-04,Silver Lake,Tesla,1090,4905.0
+2024-11-04,Silver Lake,Toyota,329,1645.0
+2024-11-04,Downtown LA,FORD Loaf,258,2902.5
+2024-11-04,Downtown LA,Tesla,485,2182.5
+2024-11-04,Downtown LA,Toyota,200,1000.0
+2024-11-11,Playa Vista,FORD Loaf,653,7346.25
+2024-11-11,Playa Vista,Tesla,1181,5314.5
+2024-11-11,Playa Vista,Toyota,473,2365.0
+2024-11-11,Silver Lake,FORD Loaf,505,5681.25
+2024-11-11,Silver Lake,Tesla,703,3163.5
+2024-11-11,Silver Lake,Toyota,314,1570.0
+2024-11-11,Downtown LA,FORD Loaf,259,2913.75
+2024-11-11,Downtown LA,Tesla,468,2106.0
+2024-11-11,Downtown LA,Toyota,202,1010.0
+2024-11-18,Playa Vista,FORD Loaf,606,6817.5
+2024-11-18,Playa Vista,Tesla,1255,5647.5
+2024-11-18,Playa Vista,Toyota,430,2150.0
+2024-11-18,Silver Lake,FORD Loaf,553,6221.25
+2024-11-18,Silver Lake,Tesla,951,4279.5
+2024-11-18,Silver Lake,Toyota,270,1350.0
+2024-11-18,Downtown LA,FORD Loaf,237,2666.25
+2024-11-18,Downtown LA,Tesla,637,2866.5
+2024-11-18,Downtown LA,Toyota,171,855.0
+2024-11-25,Playa Vista,FORD Loaf,482,5422.5
+2024-11-25,Playa Vista,Tesla,1179,5305.5
+2024-11-25,Playa Vista,Toyota,468,2340.0
+2024-11-25,Silver Lake,FORD Loaf,468,5265.0
+2024-11-25,Silver Lake,Tesla,988,4446.0
+2024-11-25,Silver Lake,Toyota,411,2055.0
+2024-11-25,Downtown LA,FORD Loaf,264,2970.0
+2024-11-25,Downtown LA,Tesla,501,2254.5
+2024-11-25,Downtown LA,Toyota,202,1010.0
+2024-12-02,Playa Vista,FORD Loaf,701,7886.25
+2024-12-02,Playa Vista,Tesla,931,4189.5
+2024-12-02,Playa Vista,Toyota,489,2445.0
+2024-12-02,Silver Lake,FORD Loaf,541,6086.25
+2024-12-02,Silver Lake,Tesla,1125,5062.5
+2024-12-02,Silver Lake,Toyota,308,1540.0
+2024-12-02,Downtown LA,FORD Loaf,258,2902.5
+2024-12-02,Downtown LA,Tesla,551,2479.5
+2024-12-02,Downtown LA,Toyota,196,980.0
+2024-12-09,Playa Vista,FORD Loaf,503,5658.75
+2024-12-09,Playa Vista,Tesla,1482,6669.0
+2024-12-09,Playa Vista,Toyota,526,2630.0
+2024-12-09,Silver Lake,FORD Loaf,278,3127.5
+2024-12-09,Silver Lake,Tesla,1063,4783.5
+2024-12-09,Silver Lake,Toyota,427,2135.0
+2024-12-09,Downtown LA,FORD Loaf,260,2925.0
+2024-12-09,Downtown LA,Tesla,557,2506.5
+2024-12-09,Downtown LA,Toyota,214,1070.0
+2024-12-16,Playa Vista,FORD Loaf,633,7121.25
+2024-12-16,Playa Vista,Tesla,1131,5089.5
+2024-12-16,Playa Vista,Toyota,494,2470.0
+2024-12-16,Silver Lake,FORD Loaf,388,4365.0
+2024-12-16,Silver Lake,Tesla,787,3541.5
+2024-12-16,Silver Lake,Toyota,440,2200.0
+2024-12-16,Downtown LA,FORD Loaf,272,3060.0
+2024-12-16,Downtown LA,Tesla,617,2776.5
+2024-12-16,Downtown LA,Toyota,191,955.0
+2024-12-23,Playa Vista,FORD Loaf,638,7177.5
+2024-12-23,Playa Vista,Tesla,1179,5305.5
+2024-12-23,Playa Vista,Toyota,468,2340.0
+2024-12-23,Silver Lake,FORD Loaf,526,5917.5
+2024-12-23,Silver Lake,Tesla,869,3910.5
+2024-12-23,Silver Lake,Toyota,385,1925.0
+2024-12-23,Downtown LA,FORD Loaf,277,3116.25
+2024-12-23,Downtown LA,Tesla,492,2214.0
+2024-12-23,Downtown LA,Toyota,230,1150.0
+2024-12-30,Playa Vista,FORD Loaf,605,6806.25
+2024-12-30,Playa Vista,Tesla,1185,5332.5
+2024-12-30,Playa Vista,Toyota,460,2300.0
+2024-12-30,Silver Lake,FORD Loaf,406,4567.5
+2024-12-30,Silver Lake,Tesla,953,4288.5
+2024-12-30,Silver Lake,Toyota,302,1510.0
+2024-12-30,Downtown LA,FORD Loaf,249,2801.25
+2024-12-30,Downtown LA,Tesla,457,2056.5
+2024-12-30,Downtown LA,Toyota,222,1110.0
+2025-01-06,Playa Vista,FORD Loaf,412,4635.0
+2025-01-06,Playa Vista,Tesla,911,4099.5
+2025-01-06,Playa Vista,Toyota,379,1895.0
+2025-01-06,Silver Lake,FORD Loaf,317,3566.25
+2025-01-06,Silver Lake,Tesla,655,2947.5
+2025-01-06,Silver Lake,Toyota,338,1690.0
+2025-01-06,Downtown LA,FORD Loaf,195,2193.75
+2025-01-06,Downtown LA,Tesla,441,1984.5
+2025-01-06,Downtown LA,Toyota,145,725.0
+2025-01-13,Playa Vista,FORD Loaf,354,3982.5
+2025-01-13,Playa Vista,Tesla,750,3375.0
+2025-01-13,Playa Vista,Toyota,353,1765.0
+2025-01-13,Silver Lake,FORD Loaf,414,4657.5
+2025-01-13,Silver Lake,Tesla,604,2718.0
+2025-01-13,Silver Lake,Toyota,214,1070.0
+2025-01-13,Downtown LA,FORD Loaf,203,2283.75
+2025-01-13,Downtown LA,Tesla,405,1822.5
+2025-01-13,Downtown LA,Toyota,165,825.0
+2025-01-20,Playa Vista,FORD Loaf,497,5591.25
+2025-01-20,Playa Vista,Tesla,759,3415.5
+2025-01-20,Playa Vista,Toyota,378,1890.0
+2025-01-20,Silver Lake,FORD Loaf,261,2936.25
+2025-01-20,Silver Lake,Tesla,755,3397.5
+2025-01-20,Silver Lake,Toyota,350,1750.0
+2025-01-20,Downtown LA,FORD Loaf,152,1710.0
+2025-01-20,Downtown LA,Tesla,378,1701.0
+2025-01-20,Downtown LA,Toyota,127,635.0
+2025-01-27,Playa Vista,FORD Loaf,391,4398.75
+2025-01-27,Playa Vista,Tesla,964,4338.0
+2025-01-27,Playa Vista,Toyota,389,1945.0
+2025-01-27,Silver Lake,FORD Loaf,331,3723.75
+2025-01-27,Silver Lake,Tesla,814,3663.0
+2025-01-27,Silver Lake,Toyota,208,1040.0
+2025-01-27,Downtown LA,FORD Loaf,178,2002.5
+2025-01-27,Downtown LA,Tesla,437,1966.5
+2025-01-27,Downtown LA,Toyota,163,815.0
+2025-02-03,Playa Vista,FORD Loaf,408,4590.0
+2025-02-03,Playa Vista,Tesla,607,2731.5
+2025-02-03,Playa Vista,Toyota,355,1775.0
+2025-02-03,Silver Lake,FORD Loaf,365,4106.25
+2025-02-03,Silver Lake,Tesla,785,3532.5
+2025-02-03,Silver Lake,Toyota,273,1365.0
+2025-02-03,Downtown LA,FORD Loaf,174,1957.5
+2025-02-03,Downtown LA,Tesla,374,1683.0
+2025-02-03,Downtown LA,Toyota,171,855.0
+2025-02-10,Playa Vista,FORD Loaf,447,5028.75
+2025-02-10,Playa Vista,Tesla,825,3712.5
+2025-02-10,Playa Vista,Toyota,373,1865.0
+2025-02-10,Silver Lake,FORD Loaf,290,3262.5
+2025-02-10,Silver Lake,Tesla,807,3631.5
+2025-02-10,Silver Lake,Toyota,295,1475.0
+2025-02-10,Downtown LA,FORD Loaf,163,1833.75
+2025-02-10,Downtown LA,Tesla,313,1408.5
+2025-02-10,Downtown LA,Toyota,126,630.0
+2025-02-17,Playa Vista,FORD Loaf,469,5276.25
+2025-02-17,Playa Vista,Tesla,819,3685.5
+2025-02-17,Playa Vista,Toyota,366,1830.0
+2025-02-17,Silver Lake,FORD Loaf,277,3116.25
+2025-02-17,Silver Lake,Tesla,637,2866.5
+2025-02-17,Silver Lake,Toyota,326,1630.0
+2025-02-17,Downtown LA,FORD Loaf,197,2216.25
+2025-02-17,Downtown LA,Tesla,322,1449.0
+2025-02-17,Downtown LA,Toyota,150,750.0
+2025-02-24,Playa Vista,FORD Loaf,453,5096.25
+2025-02-24,Playa Vista,Tesla,891,4009.5
+2025-02-24,Playa Vista,Toyota,333,1665.0
+2025-02-24,Silver Lake,FORD Loaf,447,5028.75
+2025-02-24,Silver Lake,Tesla,642,2889.0
+2025-02-24,Silver Lake,Toyota,227,1135.0
+2025-02-24,Downtown LA,FORD Loaf,208,2340.0
+2025-02-24,Downtown LA,Tesla,324,1458.0
+2025-02-24,Downtown LA,Toyota,145,725.0
+2025-03-03,Playa Vista,FORD Loaf,411,4623.75
+2025-03-03,Playa Vista,Tesla,838,3771.0
+2025-03-03,Playa Vista,Toyota,362,1810.0
+2025-03-03,Silver Lake,FORD Loaf,400,4500.0
+2025-03-03,Silver Lake,Tesla,581,2614.5
+2025-03-03,Silver Lake,Toyota,276,1380.0
+2025-03-03,Downtown LA,FORD Loaf,166,1867.5
+2025-03-03,Downtown LA,Tesla,424,1908.0
+2025-03-03,Downtown LA,Toyota,140,700.0
+2025-03-10,Playa Vista,FORD Loaf,430,4837.5
+2025-03-10,Playa Vista,Tesla,924,4158.0
+2025-03-10,Playa Vista,Toyota,361,1805.0
+2025-03-10,Silver Lake,FORD Loaf,461,5186.25
+2025-03-10,Silver Lake,Tesla,662,2979.0
+2025-03-10,Silver Lake,Toyota,349,1745.0
+2025-03-10,Downtown LA,FORD Loaf,170,1912.5
+2025-03-10,Downtown LA,Tesla,401,1804.5
+2025-03-10,Downtown LA,Toyota,157,785.0
+2025-03-17,Playa Vista,FORD Loaf,363,4083.75
+2025-03-17,Playa Vista,Tesla,804,3618.0
+2025-03-17,Playa Vista,Toyota,393,1965.0
+2025-03-17,Silver Lake,FORD Loaf,330,3712.5
+2025-03-17,Silver Lake,Tesla,691,3109.5
+2025-03-17,Silver Lake,Toyota,249,1245.0
+2025-03-17,Downtown LA,FORD Loaf,197,2216.25
+2025-03-17,Downtown LA,Tesla,427,1921.5
+2025-03-17,Downtown LA,Toyota,167,835.0
+2025-03-24,Playa Vista,FORD Loaf,428,4815.0
+2025-03-24,Playa Vista,Tesla,921,4144.5
+2025-03-24,Playa Vista,Toyota,284,1420.0
+2025-03-24,Silver Lake,FORD Loaf,377,4241.25
+2025-03-24,Silver Lake,Tesla,866,3897.0
+2025-03-24,Silver Lake,Toyota,258,1290.0
+2025-03-24,Downtown LA,FORD Loaf,189,2126.25
+2025-03-24,Downtown LA,Tesla,342,1539.0
+2025-03-24,Downtown LA,Toyota,157,785.0
+2025-03-31,Playa Vista,FORD Loaf,501,5636.25
+2025-03-31,Playa Vista,Tesla,873,3928.5
+2025-03-31,Playa Vista,Toyota,381,1905.0
+2025-03-31,Silver Lake,FORD Loaf,374,4207.5
+2025-03-31,Silver Lake,Tesla,616,2772.0
+2025-03-31,Silver Lake,Toyota,332,1660.0
+2025-03-31,Downtown LA,FORD Loaf,181,2036.25
+2025-03-31,Downtown LA,Tesla,346,1557.0
+2025-03-31,Downtown LA,Toyota,130,650.0
+2025-04-07,Playa Vista,FORD Loaf,425,4781.25
+2025-04-07,Playa Vista,Tesla,853,3838.5
+2025-04-07,Playa Vista,Toyota,333,1665.0
+2025-04-07,Silver Lake,FORD Loaf,338,3802.5
+2025-04-07,Silver Lake,Tesla,924,4158.0
+2025-04-07,Silver Lake,Toyota,378,1890.0
+2025-04-07,Downtown LA,FORD Loaf,177,1991.25
+2025-04-07,Downtown LA,Tesla,441,1984.5
+2025-04-07,Downtown LA,Toyota,157,785.0
+2025-04-14,Playa Vista,FORD Loaf,425,4781.25
+2025-04-14,Playa Vista,Tesla,878,3951.0
+2025-04-14,Playa Vista,Toyota,371,1855.0
+2025-04-14,Silver Lake,FORD Loaf,301,3386.25
+2025-04-14,Silver Lake,Tesla,636,2862.0
+2025-04-14,Silver Lake,Toyota,331,1655.0
+2025-04-14,Downtown LA,FORD Loaf,217,2441.25
+2025-04-14,Downtown LA,Tesla,374,1683.0
+2025-04-14,Downtown LA,Toyota,146,730.0
+2025-04-21,Playa Vista,FORD Loaf,550,6187.5
+2025-04-21,Playa Vista,Tesla,809,3640.5
+2025-04-21,Playa Vista,Toyota,360,1800.0
+2025-04-21,Silver Lake,FORD Loaf,332,3735.0
+2025-04-21,Silver Lake,Tesla,711,3199.5
+2025-04-21,Silver Lake,Toyota,278,1390.0
+2025-04-21,Downtown LA,FORD Loaf,189,2126.25
+2025-04-21,Downtown LA,Tesla,434,1953.0
+2025-04-21,Downtown LA,Toyota,167,835.0
+2025-04-28,Playa Vista,FORD Loaf,390,4387.5
+2025-04-28,Playa Vista,Tesla,892,4014.0
+2025-04-28,Playa Vista,Toyota,348,1740.0
+2025-04-28,Silver Lake,FORD Loaf,434,4882.5
+2025-04-28,Silver Lake,Tesla,943,4243.5
+2025-04-28,Silver Lake,Toyota,338,1690.0
+2025-04-28,Downtown LA,FORD Loaf,195,2193.75
+2025-04-28,Downtown LA,Tesla,394,1773.0
+2025-04-28,Downtown LA,Toyota,146,730.0
+2025-05-05,Playa Vista,FORD Loaf,444,4995.0
+2025-05-05,Playa Vista,Tesla,937,4216.5
+2025-05-05,Playa Vista,Toyota,297,1485.0
+2025-05-05,Silver Lake,FORD Loaf,350,3937.5
+2025-05-05,Silver Lake,Tesla,1030,4635.0
+2025-05-05,Silver Lake,Toyota,368,1840.0
+2025-05-05,Downtown LA,FORD Loaf,171,1923.75
+2025-05-05,Downtown LA,Tesla,388,1746.0
+2025-05-05,Downtown LA,Toyota,150,750.0
+2025-05-12,Playa Vista,FORD Loaf,400,4500.0
+2025-05-12,Playa Vista,Tesla,868,3906.0
+2025-05-12,Playa Vista,Toyota,329,1645.0
+2025-05-12,Silver Lake,FORD Loaf,389,4376.25
+2025-05-12,Silver Lake,Tesla,888,3996.0
+2025-05-12,Silver Lake,Toyota,391,1955.0
+2025-05-12,Downtown LA,FORD Loaf,165,1856.25
+2025-05-12,Downtown LA,Tesla,383,1723.5
+2025-05-12,Downtown LA,Toyota,159,795.0
+2025-05-19,Playa Vista,FORD Loaf,409,4601.25
+2025-05-19,Playa Vista,Tesla,813,3658.5
+2025-05-19,Playa Vista,Toyota,372,1860.0
+2025-05-19,Silver Lake,FORD Loaf,408,4590.0
+2025-05-19,Silver Lake,Tesla,933,4198.5
+2025-05-19,Silver Lake,Toyota,365,1825.0
+2025-05-19,Downtown LA,FORD Loaf,219,2463.75
+2025-05-19,Downtown LA,Tesla,342,1539.0
+2025-05-19,Downtown LA,Toyota,148,740.0
+2025-05-26,Playa Vista,FORD Loaf,458,5152.5
+2025-05-26,Playa Vista,Tesla,1064,4788.0
+2025-05-26,Playa Vista,Toyota,392,1960.0
+2025-05-26,Silver Lake,FORD Loaf,344,3870.0
+2025-05-26,Silver Lake,Tesla,836,3762.0
+2025-05-26,Silver Lake,Toyota,349,1745.0
+2025-05-26,Downtown LA,FORD Loaf,199,2238.75
+2025-05-26,Downtown LA,Tesla,302,1359.0
+2025-05-26,Downtown LA,Toyota,140,700.0
+2025-06-02,Playa Vista,FORD Loaf,420,4725.0
+2025-06-02,Playa Vista,Tesla,909,4090.5
+2025-06-02,Playa Vista,Toyota,342,1710.0
+2025-06-02,Silver Lake,FORD Loaf,302,3397.5
+2025-06-02,Silver Lake,Tesla,889,4000.5
+2025-06-02,Silver Lake,Toyota,344,1720.0
+2025-06-02,Downtown LA,FORD Loaf,165,1856.25
+2025-06-02,Downtown LA,Tesla,295,1327.5
+2025-06-02,Downtown LA,Toyota,166,830.0
+2025-06-09,Playa Vista,FORD Loaf,468,5265.0
+2025-06-09,Playa Vista,Tesla,782,3519.0
+2025-06-09,Playa Vista,Toyota,398,1990.0
+2025-06-09,Silver Lake,FORD Loaf,657,7391.25
+2025-06-09,Silver Lake,Tesla,785,3532.5
+2025-06-09,Silver Lake,Toyota,309,1545.0
+2025-06-09,Downtown LA,FORD Loaf,178,2002.5
+2025-06-09,Downtown LA,Tesla,318,1431.0
+2025-06-09,Downtown LA,Toyota,143,715.0
+2025-06-16,Playa Vista,FORD Loaf,430,4837.5
+2025-06-16,Playa Vista,Tesla,962,4329.0
+2025-06-16,Playa Vista,Toyota,377,1885.0
+2025-06-16,Silver Lake,FORD Loaf,408,4590.0
+2025-06-16,Silver Lake,Tesla,790,3555.0
+2025-06-16,Silver Lake,Toyota,287,1435.0
+2025-06-16,Downtown LA,FORD Loaf,200,2250.0
+2025-06-16,Downtown LA,Tesla,368,1656.0
+2025-06-16,Downtown LA,Toyota,160,800.0
+2025-06-23,Playa Vista,FORD Loaf,483,5433.75
+2025-06-23,Playa Vista,Tesla,948,4266.0
+2025-06-23,Playa Vista,Toyota,338,1690.0
+2025-06-23,Silver Lake,FORD Loaf,428,4815.0
+2025-06-23,Silver Lake,Tesla,1080,4860.0
+2025-06-23,Silver Lake,Toyota,501,2505.0
+2025-06-23,Downtown LA,FORD Loaf,183,2058.75
+2025-06-23,Downtown LA,Tesla,309,1390.5
+2025-06-23,Downtown LA,Toyota,142,710.0
+2025-06-30,Playa Vista,FORD Loaf,460,5175.0
+2025-06-30,Playa Vista,Tesla,912,4104.0
+2025-06-30,Playa Vista,Toyota,294,1470.0
+2025-06-30,Silver Lake,FORD Loaf,442,4972.5
+2025-06-30,Silver Lake,Tesla,838,3771.0
+2025-06-30,Silver Lake,Toyota,324,1620.0
+2025-06-30,Downtown LA,FORD Loaf,213,2396.25
+2025-06-30,Downtown LA,Tesla,342,1539.0
+2025-06-30,Downtown LA,Toyota,152,760.0
+2025-07-07,Playa Vista,FORD Loaf,408,4590.0
+2025-07-07,Playa Vista,Tesla,1027,4621.5
+2025-07-07,Playa Vista,Toyota,339,1695.0
+2025-07-07,Silver Lake,FORD Loaf,403,4533.75
+2025-07-07,Silver Lake,Tesla,911,4099.5
+2025-07-07,Silver Lake,Toyota,340,1700.0
+2025-07-07,Downtown LA,FORD Loaf,154,1732.5
+2025-07-07,Downtown LA,Tesla,361,1624.5
+2025-07-07,Downtown LA,Toyota,147,735.0
+2025-07-14,Playa Vista,FORD Loaf,473,5321.25
+2025-07-14,Playa Vista,Tesla,754,3393.0
+2025-07-14,Playa Vista,Toyota,287,1435.0
+2025-07-14,Silver Lake,FORD Loaf,405,4556.25
+2025-07-14,Silver Lake,Tesla,872,3924.0
+2025-07-14,Silver Lake,Toyota,409,2045.0
+2025-07-14,Downtown LA,FORD Loaf,149,1676.25
+2025-07-14,Downtown LA,Tesla,398,1791.0
+2025-07-14,Downtown LA,Toyota,141,705.0
+2025-07-21,Playa Vista,FORD Loaf,478,5377.5
+2025-07-21,Playa Vista,Tesla,954,4293.0
+2025-07-21,Playa Vista,Toyota,323,1615.0
+2025-07-21,Silver Lake,FORD Loaf,521,5861.25
+2025-07-21,Silver Lake,Tesla,757,3406.5
+2025-07-21,Silver Lake,Toyota,325,1625.0
+2025-07-21,Downtown LA,FORD Loaf,201,2261.25
+2025-07-21,Downtown LA,Tesla,418,1881.0
+2025-07-21,Downtown LA,Toyota,152,760.0
+2025-07-28,Playa Vista,FORD Loaf,470,5287.5
+2025-07-28,Playa Vista,Tesla,787,3541.5
+2025-07-28,Playa Vista,Toyota,401,2005.0
+2025-07-28,Silver Lake,FORD Loaf,500,5625.0
+2025-07-28,Silver Lake,Tesla,1057,4756.5
+2025-07-28,Silver Lake,Toyota,430,2150.0
+2025-07-28,Downtown LA,FORD Loaf,190,2137.5
+2025-07-28,Downtown LA,Tesla,325,1462.5
+2025-07-28,Downtown LA,Toyota,149,745.0
+2025-08-04,Playa Vista,FORD Loaf,406,4567.5
+2025-08-04,Playa Vista,Tesla,852,3834.0
+2025-08-04,Playa Vista,Toyota,353,1765.0
+2025-08-04,Silver Lake,FORD Loaf,395,4443.75
+2025-08-04,Silver Lake,Tesla,634,2853.0
+2025-08-04,Silver Lake,Toyota,279,1395.0
+2025-08-04,Downtown LA,FORD Loaf,147,1653.75
+2025-08-04,Downtown LA,Tesla,302,1359.0
+2025-08-04,Downtown LA,Toyota,117,585.0
+2025-08-11,Playa Vista,FORD Loaf,425,4781.25
+2025-08-11,Playa Vista,Tesla,769,3460.5
+2025-08-11,Playa Vista,Toyota,294,1470.0
+2025-08-11,Silver Lake,FORD Loaf,305,3431.25
+2025-08-11,Silver Lake,Tesla,957,4306.5
+2025-08-11,Silver Lake,Toyota,353,1765.0
+2025-08-11,Downtown LA,FORD Loaf,164,1845.0
+2025-08-11,Downtown LA,Tesla,292,1314.0
+2025-08-11,Downtown LA,Toyota,128,640.0
+2025-08-18,Playa Vista,FORD Loaf,347,3903.75
+2025-08-18,Playa Vista,Tesla,785,3532.5
+2025-08-18,Playa Vista,Toyota,275,1375.0
+2025-08-18,Silver Lake,FORD Loaf,410,4612.5
+2025-08-18,Silver Lake,Tesla,651,2929.5
+2025-08-18,Silver Lake,Toyota,348,1740.0
+2025-08-18,Downtown LA,FORD Loaf,159,1788.75
+2025-08-18,Downtown LA,Tesla,325,1462.5
+2025-08-18,Downtown LA,Toyota,108,540.0
+2025-08-25,Playa Vista,FORD Loaf,400,4500.0
+2025-08-25,Playa Vista,Tesla,792,3564.0
+2025-08-25,Playa Vista,Toyota,363,1815.0
+2025-08-25,Silver Lake,FORD Loaf,466,5242.5
+2025-08-25,Silver Lake,Tesla,838,3771.0
+2025-08-25,Silver Lake,Toyota,315,1575.0
+2025-08-25,Downtown LA,FORD Loaf,155,1743.75
+2025-08-25,Downtown LA,Tesla,252,1134.0
+2025-08-25,Downtown LA,Toyota,152,760.0
+2025-09-01,Playa Vista,FORD Loaf,502,5647.5
+2025-09-01,Playa Vista,Tesla,849,3820.5
+2025-09-01,Playa Vista,Toyota,370,1850.0
+2025-09-01,Silver Lake,FORD Loaf,417,4691.25
+2025-09-01,Silver Lake,Tesla,947,4261.5
+2025-09-01,Silver Lake,Toyota,419,2095.0
+2025-09-01,Downtown LA,FORD Loaf,222,2497.5
+2025-09-01,Downtown LA,Tesla,316,1422.0
+2025-09-01,Downtown LA,Toyota,161,805.0
+2025-09-08,Playa Vista,FORD Loaf,425,4781.25
+2025-09-08,Playa Vista,Tesla,935,4207.5
+2025-09-08,Playa Vista,Toyota,366,1830.0
+2025-09-08,Silver Lake,FORD Loaf,446,5017.5
+2025-09-08,Silver Lake,Tesla,798,3591.0
+2025-09-08,Silver Lake,Toyota,432,2160.0
+2025-09-08,Downtown LA,FORD Loaf,182,2047.5
+2025-09-08,Downtown LA,Tesla,392,1764.0
+2025-09-08,Downtown LA,Toyota,113,565.0
+2025-09-15,Playa Vista,FORD Loaf,493,5546.25
+2025-09-15,Playa Vista,Tesla,918,4131.0
+2025-09-15,Playa Vista,Toyota,344,1720.0
+2025-09-15,Silver Lake,FORD Loaf,475,5343.75
+2025-09-15,Silver Lake,Tesla,923,4153.5
+2025-09-15,Silver Lake,Toyota,348,1740.0
+2025-09-15,Downtown LA,FORD Loaf,160,1800.0
+2025-09-15,Downtown LA,Tesla,291,1309.5
+2025-09-15,Downtown LA,Toyota,138,690.0
+2025-09-22,Playa Vista,FORD Loaf,450,5062.5
+2025-09-22,Playa Vista,Tesla,921,4144.5
+2025-09-22,Playa Vista,Toyota,341,1705.0
+2025-09-22,Silver Lake,FORD Loaf,618,6952.5
+2025-09-22,Silver Lake,Tesla,795,3577.5
+2025-09-22,Silver Lake,Toyota,463,2315.0
+2025-09-22,Downtown LA,FORD Loaf,191,2148.75
+2025-09-22,Downtown LA,Tesla,362,1629.0
+2025-09-22,Downtown LA,Toyota,152,760.0
+2025-09-29,Playa Vista,FORD Loaf,401,4511.25
+2025-09-29,Playa Vista,Tesla,742,3339.0
+2025-09-29,Playa Vista,Toyota,417,2085.0
+2025-09-29,Silver Lake,FORD Loaf,528,5940.0
+2025-09-29,Silver Lake,Tesla,915,4117.5
+2025-09-29,Silver Lake,Toyota,389,1945.0
+2025-09-29,Downtown LA,FORD Loaf,193,2171.25
+2025-09-29,Downtown LA,Tesla,424,1908.0
+2025-09-29,Downtown LA,Toyota,141,705.0
+2025-10-06,Playa Vista,FORD Loaf,383,4308.75
+2025-10-06,Playa Vista,Tesla,1011,4549.5
+2025-10-06,Playa Vista,Toyota,355,1775.0
+2025-10-06,Silver Lake,FORD Loaf,405,4556.25
+2025-10-06,Silver Lake,Tesla,916,4122.0
+2025-10-06,Silver Lake,Toyota,400,2000.0
+2025-10-06,Downtown LA,FORD Loaf,211,2373.75
+2025-10-06,Downtown LA,Tesla,381,1714.5
+2025-10-06,Downtown LA,Toyota,125,625.0
+2025-10-13,Playa Vista,FORD Loaf,480,5400.0
+2025-10-13,Playa Vista,Tesla,848,3816.0
+2025-10-13,Playa Vista,Toyota,359,1795.0
+2025-10-13,Silver Lake,FORD Loaf,479,5388.75
+2025-10-13,Silver Lake,Tesla,1331,5989.5
+2025-10-13,Silver Lake,Toyota,425,2125.0
+2025-10-13,Downtown LA,FORD Loaf,192,2160.0
+2025-10-13,Downtown LA,Tesla,323,1453.5
+2025-10-13,Downtown LA,Toyota,156,780.0
+2025-10-20,Playa Vista,FORD Loaf,457,5141.25
+2025-10-20,Playa Vista,Tesla,874,3933.0
+2025-10-20,Playa Vista,Toyota,402,2010.0
+2025-10-20,Silver Lake,FORD Loaf,442,4972.5
+2025-10-20,Silver Lake,Tesla,956,4302.0
+2025-10-20,Silver Lake,Toyota,345,1725.0
+2025-10-20,Downtown LA,FORD Loaf,188,2115.0
+2025-10-20,Downtown LA,Tesla,329,1480.5
+2025-10-20,Downtown LA,Toyota,150,750.0
+2025-10-27,Playa Vista,FORD Loaf,517,5816.25
+2025-10-27,Playa Vista,Tesla,952,4284.0
+2025-10-27,Playa Vista,Toyota,326,1630.0
+2025-10-27,Silver Lake,FORD Loaf,489,5501.25
+2025-10-27,Silver Lake,Tesla,1105,4972.5
+2025-10-27,Silver Lake,Toyota,407,2035.0
+2025-10-27,Downtown LA,FORD Loaf,144,1620.0
+2025-10-27,Downtown LA,Tesla,277,1246.5
+2025-10-27,Downtown LA,Toyota,128,640.0
+2025-11-03,Playa Vista,FORD Loaf,533,5996.25
+2025-11-03,Playa Vista,Tesla,1188,5346.0
+2025-11-03,Playa Vista,Toyota,539,2695.0
+2025-11-03,Silver Lake,FORD Loaf,909,10226.25
+2025-11-03,Silver Lake,Tesla,1853,8338.5
+2025-11-03,Silver Lake,Toyota,656,3280.0
+2025-11-03,Downtown LA,FORD Loaf,259,2913.75
+2025-11-03,Downtown LA,Tesla,436,1962.0
+2025-11-03,Downtown LA,Toyota,213,1065.0
+2025-11-10,Playa Vista,FORD Loaf,562,6322.5
+2025-11-10,Playa Vista,Tesla,1134,5103.0
+2025-11-10,Playa Vista,Toyota,666,3330.0
+2025-11-10,Silver Lake,FORD Loaf,754,8482.5
+2025-11-10,Silver Lake,Tesla,1562,7029.0
+2025-11-10,Silver Lake,Toyota,503,2515.0
+2025-11-10,Downtown LA,FORD Loaf,263,2958.75
+2025-11-10,Downtown LA,Tesla,425,1912.5
+2025-11-10,Downtown LA,Toyota,171,855.0
+2025-11-17,Playa Vista,FORD Loaf,668,7515.0
+2025-11-17,Playa Vista,Tesla,1340,6030.0
+2025-11-17,Playa Vista,Toyota,446,2230.0
+2025-11-17,Silver Lake,FORD Loaf,616,6930.0
+2025-11-17,Silver Lake,Tesla,1302,5859.0
+2025-11-17,Silver Lake,Toyota,505,2525.0
+2025-11-17,Downtown LA,FORD Loaf,278,3127.5
+2025-11-17,Downtown LA,Tesla,418,1881.0
+2025-11-17,Downtown LA,Toyota,195,975.0

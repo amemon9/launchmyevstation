@@ -1,0 +1,51 @@
+station_name,ev_type,price,region,is_phev
+Erewhon Market,Tesla,18.5,Los Angeles Metro,True
+Tartine Sycamore,Tesla,12.12,Los Angeles Metro,False
+Lodge Bread Co,Tesla,12.77,Los Angeles Metro,False
+Bread Lounge,Tesla,10.13,Los Angeles Metro,True
+Clark Street Bread,Tesla,10.29,Los Angeles Metro,True
+Gjusta,Tesla,11.83,Los Angeles Metro,False
+Superba Food + Bread,Tesla,9.55,Los Angeles Metro,False
+Republique,Tesla,9.67,Los Angeles Metro,True
+Bub and Grandma's,Tesla,8.66,Los Angeles Metro,True
+Seed Bakery,Tesla,13.06,Los Angeles Metro,False
+Frogtown's Gourmet,Tesla,10.17,Los Angeles Metro,False
+Milo & Olive,Tesla,9.73,Los Angeles Metro,True
+Roan Mills,Tesla,9.71,Los Angeles Metro,False
+Flour Power,Toyota,8.09,SF Bay Area,False
+Whisk & Paddle,FORD,6.92,SF Bay Area,False
+Presidio Pastries,Toyota,4.44,SF Bay Area,False
+Superba Food + Bread,Toyota,3.69,Los Angeles Metro,False
+Haight Ashbury Ovens,Toyota,6.16,SF Bay Area,False
+Tartine Sycamore,FORD,5.23,Los Angeles Metro,False
+Rise & Shine Bakery,Toyota,7.25,Los Angeles Metro,True
+The Rolling Pin,Tesla,12.09,San Diego,True
+Flour Power,Toyota,8.42,San Diego,True
+Oven Fresh Goods,Volvo XC60,10.8,San Diego,True
+Frogtown's Gourmet,FORD,3.87,Los Angeles Metro,True
+Presidio Pastries,Toyota,3.53,SF Bay Area,False
+Balboa Park Bakery,Toyota,7.48,San Diego,False
+La Jolla Loaves,FORD,3.09,San Diego,True
+Coronado Crumb Co.,FORD,3.23,San Diego,False
+The Daily Crumb,Tesla,12.3,San Diego,True
+Milo & Olive,Toyota,6.56,Los Angeles Metro,True
+Yeast of Eden,Volvo XC60,12.22,San Diego,True
+Butter & Salt,Volvo XC60,7.62,SF Bay Area,True
+The Daily Crumb,Volvo XC60,10.21,San Diego,False
+Silicon Valley Sourdough,FORD,5.71,SF Bay Area,True
+Frogtown's Gourmet,FORD,3.29,Los Angeles Metro,True
+Butter & Salt,Tesla,11.86,SF Bay Area,False
+Gaslamp Quarter Crust,Toyota,4.04,San Diego,False
+Balboa Park Bakery,FORD,4.6,San Diego,False
+Yeast of Eden,Volvo XC60,10.24,San Diego,False
+Oven Fresh Goods,FORD,3.3,SF Bay Area,False
+Oven Fresh Goods,Toyota,8.23,San Diego,False
+The Daily Crumb,Volvo XC60,10.41,SF Bay Area,False
+Butter & Salt,Toyota,3.86,SF Bay Area,True
+Whisk & Paddle,Tesla,11.71,SF Bay Area,True
+Flour Power,Volvo XC60,10.0,SF Bay Area,False
+Rise & Shine Bakery,FORD,6.99,SF Bay Area,True
+Lodge Bread Co,FORD,3.32,Los Angeles Metro,False
+The Daily Crumb,Volvo XC60,8.31,SF Bay Area,False
+Coronado Crumb Co.,Tesla,8.36,San Diego,True
+Presidio Pastries,FORD,6.53,SF Bay Area,False

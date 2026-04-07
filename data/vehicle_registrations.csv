@@ -1,0 +1,8 @@
+zip_code,ev_type,registration_year,registration_count
+'90001','FORD','2023',700
+'90007','Tesla','2022',300
+'90004','Tesla','2023',450
+'90003','Toyota','2022',200
+'90005','FORD','2022',800
+'90002','Tesla','2023',850
+'90006','Toyota','2023',400
