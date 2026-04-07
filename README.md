@@ -14,7 +14,7 @@ This scenario demonstrates an AI Agent's ability to orchestrate enterprise data 
 
 The agent autonomously queries BigQuery to find macro trends and uses Google Maps to validate micro-location details. The demo relies on three key datasets:
 
-1.  **Demographics:** To identify neighborhoods with high foot traffic using census data (Macro Discovery).
+1.  **Demographics:** To identify neighborhoods with high evstation traffic using census data (Macro Discovery).
 2.  **Market Data:** To analyze competitor pricing and suggest a premium price point (Pricing Strategy).
 3.  **Sales History:** To forecast potential revenue based on comparable store trends (Forecasting).
 
@@ -32,7 +32,7 @@ launchmyevstation/
 │   ├── demographics.csv
 │   ├── evstation_prices.csv
 │   ├── sales_history_weekly.csv
-│   └── foot_traffic.csv
+│   └── evstation_traffic.csv
 ├── adk_agent/                   # AI Agent Application (ADK)
 │   └── mcp_evstation_app/          # App directory
 │       ├── agent.py             # Agent definition
@@ -56,8 +56,8 @@ Follow these steps in **Google Cloud Shell** to provision the demo environment.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/google/mcp.git
-cd mcp/examples/launchmyevstation
+git clone https://github.com/amemon9/launchmyevstation.git
+cd launchmyevstation
 ```
 
 ### 2. Authenticate with Google Cloud
@@ -128,7 +128,7 @@ Open the link provided by `adk web` in your browser. You can now chat with the a
 
 **Sample Questions:**
 
-*   "I’m looking to open my fourth evstation location in Los Angeles. I need a neighborhood with early activity. Find the zip code with the highest 'morning' foot traffic score."
+*   "I’m looking to open my fourth evstation location in Los Angeles. I need a neighborhood with early activity. Find the zip code with the highest 'morning' evstation traffic score."
 *   "Can you search for 'EVStations' in that zip code to see if it's saturated? If there are too many, check for 'Specialty Coffee' shops, so I can position myself near them to capture EV traffic."
 *    "Okay and I want to position this as a premium brand. What is the maximum price being charged for a 'Tesla' in the LA Metro area?"
 *    "Now I want a revenue projection for December 2025. Look at my sales history and take data from my best performing store for the 'Tesla'. Run a forecast for December 2025 to estimate the capacity I'll sell. Then, calculate the projected total revenue using just under the premium price we found (let's use $18)"
@@ -151,7 +151,7 @@ The data in this repository is synthetic but structured to support specific demo
 
 | Table | Demo Purpose | Narrative Logic |
 | :--- | :--- | :--- |
-| **`foot_traffic`** | **Target Discovery**<br>Finding the target neighborhood. | **Morning** activity is uniquely spiked in **90403**, allowing the Agent to pinpoint it as the optimal location for a morning-focused business like a evstation. |
+| **`evstation_traffic`** | **Target Discovery**<br>Finding the target neighborhood. | **Morning** activity is uniquely spiked in **90403**, allowing the Agent to pinpoint it as the optimal location for a morning-focused business like a evstation. |
 | **`demographics`** | **Community Profiling**<br>Analyzing market depth. | **Santa Monica (90403)** is modeled with a dense, established residential population, providing a stable baseline for customer volume. |
 | **`evstation_prices`** | **Pricing Strategy**<br>Setting a price point. | **Erewhon Market** has the highest price ceiling for a Tesla (~$18.50), while the market average is ~$8.20. This allows the Agent to confidently suggest a premium price point of ~$15-18. |
 | **`sales_history`** | **Forecasting**<br>Predicting growth. | **Silver Lake** shows aggressive week-over-week growth trends, while **Playa Vista** represents a stable, high-volume flagship store, providing distinct patterns for forecasting models. |
